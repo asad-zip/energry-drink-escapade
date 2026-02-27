@@ -10,7 +10,7 @@ Me and my roommate ranked every energy drink we got our hands on: solo, mixed wi
 
 ## 🌐 Live Site
 
-👉 **[View the full rankings](https://YOUR_USERNAME.github.io/energy-drink-escapade/)**
+👉 **[View the full rankings](https://asad-zip.github.io/energry-drink-escapade/)**
 
 The site includes:
 - Brand frequency breakdown
